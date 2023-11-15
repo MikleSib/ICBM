@@ -1,0 +1,11 @@
+fileFormatVersion: 2
+guid: 20bdaadeb6a3a4a44b2892a4df93d1cf
+timeCreated: 1511144379
+licenseType: Store
+ShaderImporter:
+  defaultTextures:
+  - _Emmis: {fileID: 2800000, guid: 1382e9beefab1644e8de31d5ca2244ef, type: 3}
+  - _Height_map: {fileID: 2800000, guid: e4518fbdd2e3af140b118e35d7bab35b, type: 3}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
